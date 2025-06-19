@@ -1,0 +1,5 @@
+package testdata
+
+object Data {
+
+}
